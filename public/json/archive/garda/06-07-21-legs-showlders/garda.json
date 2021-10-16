@@ -1,0 +1,35 @@
+{
+	"photo_equip":[
+				   ["photo_equip/showlders/showlders_smit.jpg","photo_equip/showlders/shoulders_sitdown.jpg"],
+				   ["photo_equip/showlders/IMG_20201030_162311.jpg","photo_equip/showlders/hunter-labradas-5-moves-to-massive-shoulders-labrada-graphic-3b.jpg"],
+				   ["photo_equip/showlders/shoulders_stendup.jpg","photo_equip/showlders/IMG_20201028_085140.jpg"],
+				   ["photo_equip/legs/IMG_20201026_174911.jpg","photo_equip/legs/zhim-nogami-foto.jpg"],
+				   ["photo_equip/legs/prised_smit.jpg","photo_equip/legs/prisedaniya-so-shtangoy.jpg"],
+				   ["photo_equip/abdominal/press_na_skame.jpg","photo_equip/abdominal/IMG_20201028_090039.jpg"]
+				  ],
+	"exercise_name":[
+					 ["Жим штанги в станке Смитта из-за головы сидя (с каждой стороны по 10-12кг(22-26 фунта))", "Жим гантелей 12-14кг(26-30 фунтов) вверх сидя на стуле"],
+					 ["Жим вверх сидя в тренажере для плеч (50-60 фунтов)","Жим штанги в станке Смитта перед собой сидя (с каждой стороны по 10-12кг(22-26 фунта))"],
+					 ["Отведения гантелей по 7-8кг в стороны стоя","Дельта-машина отведения (50 фунтов)"],
+					 ["Жим ногами в платформе сидя(60-70 кг или 135 фунтов) с каждой стороны","Жим ногами вверх в платформе(140 фунтов)"],
+					 ["Приседания со штангой в станке Смитта( по 10-12 кг(22-26 фунта) с каждой стороны)","Приседания со свободным весом (штанга)по 10-12 кг(22-26 фунта) с каждой стороны"],
+					 ["Подьемы ног лежа на спине","Скручивания на пресс на наклонной скамье"]
+				  	],
+	"src_video":[
+				 ["https://www.youtube.com/embed/b6yuHKoc0JY","https://www.youtube.com/embed/0JCIaYefb14"],
+				 ["https://www.youtube.com/embed/IMxbzZ-hEXw","https://www.youtube.com/embed/uFTH_rqLQNI"],
+				 ["https://www.youtube.com/embed/AeTPDjMmIm4","https://www.youtube.com/embed/Vx4N54KAOJc"],
+				 ["https://www.youtube.com/embed/xv7gMobOzmU","https://www.youtube.com/embed/wiFDIIe1Z1M"],
+				 ["https://www.youtube.com/embed/OBhf2yqCdpc","https://www.youtube.com/embed/GotRb2Ob7MA"],
+				 ["https://www.youtube.com/embed/0NrOMts6pzc","https://www.youtube.com/embed/2G_ynbbfi04"]
+				],
+	"superset":[false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}]
+		 	  ]
+}

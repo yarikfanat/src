@@ -1,0 +1,25 @@
+{
+	"photo_equip":[["photo_equip/legs/zhim-nogami-foto.jpg","photo_equip/back/goriz_richag_tyga.jpg"],
+  		           ["photo_equip/back/IMG_20201026_173157.jpg","photo_equip/legs/prisedaniya-plie-s-gantelej.jpg"],
+  		           ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg","photo_equip/back/tyaga-za-golovu1.jpg"],
+  		           ["photo_equip/legs/IMG_20201028_084354.jpg","photo_equip/legs/biceps_bedra_lezha.jpg"],
+         	       ["photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg","photo_equip/abdominal/press_na_skame.jpg"]],
+	"exercise_name":[["Жим ногами в платформе (10-15 кг)","Рычажная тяга (по 5-7кг с каждой стороны)"],
+					 ["Гиперэкстензия","Приседы плие с гантелей 7-8кг"],
+					 ["Приведения бедер в тренажере","Вертикальная тяга блока за голову ,вес20кг"],
+					 ["Отведение бедер в тренажере","сгибание бедер лежа в тренажере"],
+					 ["Подьемы ног в висе","Скручивания в тренажере для пресса","Подьемы ног лежа на спине"]],
+	"src_video":[["https://www.youtube.com/embed/wiFDIIe1Z1M","https://www.youtube.com/embed/ipldDlIVcm4"],
+            	 ["https://www.youtube.com/embed/ykGsGlXkEVg","https://www.youtube.com/embed/HmKtdQTPJi4"],
+            	 ["https://www.youtube.com/embed/wVNFyUNcwgU","https://www.youtube.com/embed/8BwrIn4HCgk"],
+            	 ["https://www.youtube.com/embed/F2BZDFZEIQQ","https://www.youtube.com/embed/rUz7mPfvi48"],
+            	 ["https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]],
+	"superset":[true,true,true,true,false],
+	"circle":[false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":25},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":25},{"rounds":4,"reps":25}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}]
+		 	  ]
+}

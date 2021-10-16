@@ -1,0 +1,39 @@
+{
+	"photo_equip":[
+				   ["photo_equip/hands/IMG_20201030_162523.jpg","photo_equip/hands/smitt_uzko_zhim.jpg"],
+				   ["photo_equip/hands/french_zhim.jpg","photo_equip/hands/triceps_sitdown.jpg"],
+				   ["photo_equip/hands/IMG_20201030_162304.jpg","photo_equip/hands/triceps_v_naklone.jpg"],				  
+				   ["photo_equip/hands/biceps_podem_stanga.jpg","photo_equip/hands/skot-rusworkout.jpg"],
+				   ["photo_equip/hands/podem-gantel_bicep_sidya.jpg","photo_equip/hands/koncentrirovannyj-podem-na-biceps.jpg"],
+				   ["photo_equip/legs/IMG_20201026_174911.jpg","photo_equip/legs/IMG_20201026_175713.jpg"],
+				   ["photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg","photo_equip/abdominal/press_na_skame.jpg"]
+				  ],
+	"exercise_name":[
+					 ["Жим узким хватом штанги (по 10 кг(22 фунта) с каждой стороны)","Жим узким хватом в станке Смитта (по 10 кг(22 фунта) с каждой стороны)"],
+					 ["Французкий жим лежа - изогнутый гриф (40 фунтов монолитная штанга)","Разгибание на трицепс гантели 14 кг(30 фунтов) из-за головы двумя руками"],
+					 ["Разгибания на трицепс в трицепс-машине (80-90 фунтов)","Разгибание на трицепс гантели в наклоне (6кг(12 фунтов))"],					 
+					 ["Подьем штанги на бицепс стоя (50 фунтов монолитная)","Подьем штанги на скамье Скотта (30 фунтов монолитная)"],
+					 ["Подьем гантелей на бицепс сидя - с супинацией (8-9кг или 20 фунтов)","Концентрированный подьем гантели на бицепс сидя ((8-9кг или 20 фунтов))"],
+					 ["Жим ногами в платформе сидя (160 фунтов)","Жим ногами вверх в платформе (по 40-60 кг(80-120 фунтов) с каждой стороны)"],
+					 ["Подьемы ног в висе","Скручивания в тренажере для пресса","Подьемы ног лежа на спине"]
+				  	],
+	"src_video":[
+				 ["https://www.youtube.com/embed/4XHFfOpzuLs","https://www.youtube.com/embed/xyUG3SR0mSo"],
+				 ["https://www.youtube.com/embed/w41g_ivaWlc","https://www.youtube.com/embed/7QVHcc_aP5Y"],
+				 ["https://www.youtube.com/embed/ZcVPqGfS5iE","https://www.youtube.com/embed/m8oM7C09BmI"],				
+				 ["https://www.youtube.com/embed/ztrd2rCc1hA","https://www.youtube.com/embed/7fBGXQXGxfk"],
+				 ["https://www.youtube.com/embed/Kkp0anSdkPY","https://www.youtube.com/embed/AafI9o0xRnQ"],
+				 ["https://www.youtube.com/embed/xv7gMobOzmU","https://www.youtube.com/embed/wiFDIIe1Z1M"],
+				 ["https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]
+				],
+	"superset":[false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],			 
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}]
+		 	  ]
+}

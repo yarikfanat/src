@@ -1,0 +1,25 @@
+{
+	"photo_equip":[["photo_equip/legs/IMG_20201026_174911.jpg","photo_equip/back/IMG_20201026_174847.jpg"],
+  		           ["photo_equip/back/IMG_20201026_173157.jpg","photo_equip/legs/prisedaniya-plie-s-gantelej.jpg"],
+  		           ["photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg","photo_equip/back/IMG_20201028_085824.jpg"],
+  		           ["photo_equip/legs/IMG_20201028_084354.jpg","photo_equip/back/IMG_20201028_085813.jpg"],
+         	       ["photo_equip/abdominal/IMG_20201026_173150.jpg","photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg","photo_equip/abdominal/press_na_skame.jpg"]],
+	"exercise_name":[["Жим ногами в платформе сидя","Рычажная тяга (вес 30-40 фунтов)"],
+					 ["Гиперэкстензия","Приседы плие с гантелей 7-8кг"],
+					 ["Приведения бедер в тренажере","Вертикальная рычажная тяга средним хватом (вес 30-40 фунтов)"],
+					 ["Отведение бедер в тренажере","Обратная гиперэкстензия в тренажере"],
+					 ["Скручивания на пресс лежа на спине","Подьемы ног в висе","Скручивания в тренажере для пресса","Подьемы ног лежа на спине"]],
+	"src_video":[["https://www.youtube.com/embed/xv7gMobOzmU","video/uzko_gorizont_tyga_richag.mp4"],
+            	 ["https://www.youtube.com/embed/ykGsGlXkEVg","https://www.youtube.com/embed/HmKtdQTPJi4"],
+            	 ["https://www.youtube.com/embed/wVNFyUNcwgU","video/vertical_richag_tyaga.mp4"],
+            	 ["https://www.youtube.com/embed/F2BZDFZEIQQ","video/obratna_extension.mp4"],
+            	 ["video/press_lezha.mp4","https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]],
+	"superset":[true,true,true,true,false],
+	"circle":[false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":25},{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":25},{"rounds":4,"reps":25}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}]
+		 	  ]
+}

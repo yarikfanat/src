@@ -1,0 +1,39 @@
+{
+	"photo_equip":[
+				    ["photo_equip/back/TRX_back.jpg"],
+				    ["photo_equip/back/podtjagivanij-na-turnike-na-massu.jpg"],
+				    ["photo_equip/back/turnik_uzko.jpg"],
+				    ["photo_equip/hands/trx-triceps_razgib.jpg"],
+				    ["photo_equip/hands/diamond-push-up.jpg"],
+				    ["photo_equip/abdominal/trx_pike.jpg"],
+				    ["photo_equip/abdominal/TRX-Pl-1.jpg"]
+				  ],
+	"exercise_name":[
+					 ["Подтягивания в TRX петлях для мышц спины"],
+					 ["Подтягиваня в турнике широким хватом к груди"],
+					 ["Подтягиваня в турнике узким хватом к груди (пример в видеоролике на 2:09 минуте)"],
+					 ["Разгибания на трицепс в TRX"],
+					 ["Алмазные отжимания от пола на трицепс (видеоролик на 0:30 минуте)"],
+					 ["Пресс в TRX (упражнение - Пик)"],
+					 ["Пресс в TRX (Подтягивания колен к груди)"]
+				  	],
+	"src_video":[
+				 ["https://www.youtube.com/embed/xb5nXpRczrQ"],
+				 ["https://www.youtube.com/embed/HgUXEJEmn-g"],
+				 ["https://www.youtube.com/embed/RZnn7oNQo7Q"],
+				 ["https://www.youtube.com/embed/ePfjTb94_ZI"],
+				 ["https://www.youtube.com/embed/obp_iRwJ8mM"],
+				 ["https://www.youtube.com/embed/KPO1sBrXv94"],
+				 ["https://www.youtube.com/embed/gXlS-4UY_RE"]
+				],
+	"superset":[false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":10}],
+			   [{"rounds":4,"reps":10}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":20}],
+			   [{"rounds":4,"reps":20}]
+		 	  ]
+}

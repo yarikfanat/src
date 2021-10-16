@@ -1,0 +1,17 @@
+{
+	"photo_equip":[["photo_equip/legs/IMG_20201026_174911.jpg","photo_equip/legs/IMG_20201026_175713.jpg","photo_equip/legs/vipad.jpg","photo_equip/legs/zhim_lega.jpg"],
+  		           ["photo_equip/back/stanovaja.jpg","photo_equip/legs/prisedaniya-plie-s-gantelej.jpg","photo_equip/legs/svedenie-nog-v-trenazhere_4.jpg"],
+         	       ["photo_equip/abdominal/IMG_20201026_173150.jpg","photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg","photo_equip/abdominal/press_na_skame.jpg"]],
+	"exercise_name":[["Жим ногами в платформе сидя","Жим ногами вверх в платформе","Выпады с гантелями","Жим ногами вверх лежа на спине в станке Смитта"],
+					 ["Становая тяга штанги сумо","Приседы плие с гантелей","Приведения бедер в тренажере"],
+					 ["Скручивания на пресс лежа на спине","Подьемы ног в висе","Скручивания в тренажере для пресса","Подьемы ног лежа на спине"]],
+	"src_video":[["https://www.youtube.com/embed/xv7gMobOzmU","https://www.youtube.com/embed/wiFDIIe1Z1M","https://www.youtube.com/embed/i-MMX509tdo","https://www.youtube.com/embed/U6oN6IcKKI4"],
+            	 ["https://www.youtube.com/embed/bfsKSHhqVS4","https://www.youtube.com/embed/HmKtdQTPJi4","https://www.youtube.com/embed/wVNFyUNcwgU"],
+             	 ["https://www.youtube.com/embed/1hMM2VDeyFg","https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE","https://www.youtube.com/embed/0NrOMts6pzc"]],
+	"superset":[false,false,false],
+	"circle":[false,false,false],
+	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}]
+		 	  ]
+}

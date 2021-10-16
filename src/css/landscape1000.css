@@ -1,0 +1,817 @@
+
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 700px){
+	.logon_container {
+		margin: 0;
+		height: 100%;
+		width: 70%;
+		float: left;
+	}
+	.frame {
+		width: 90%;
+		background-image: url(../img/my_photo600.jpg);
+	}
+	.input_block {
+    	margin: 120px auto;
+	}
+	.lenta, .lenta2 {
+		width: 3%;
+		height: 100%;
+		margin-top: 0;
+		margin-bottom: 0;
+		margin-left: 0;
+		margin-right: 0;
+		flex-direction: column;
+		float: left;
+	}
+	.lenta_win {
+		height: 3%;
+		width: 100%;
+	}
+	.lenta_win_ {
+		height: 6%;
+		width: 100%;
+	}
+	.video_block {
+		float: left;
+		width: 22%;
+		height: 90%;
+		margin-top: 5%;
+		margin-bottom: 5%;
+		margin-left: 0;
+		margin-right: 0;
+		flex-direction: column;
+	}
+	.lenta_win ,.lenta_win_ {
+    	border: 4px solid rgba(0,97,193,0.7);
+    	border-left-width: 8px;
+    	border-right-width: 8px;
+	}
+	.clip1, .clip2, .clip3, .clip4, .clip5, .clip6 {
+		width: 100%;
+		left: 0;
+	}
+	.clip1 {
+		top:4%;
+	}
+	.clip2 {
+		top:28%;
+	}
+	.clip3 {
+		top:52%;
+	}
+	.clip4 {
+		top:76%;
+	}
+	.clip5 {
+		top:100%;
+	}
+	.clip6 {
+		top:124%;
+	}
+	@keyframes anime_clip_one {
+	    from {top: 4%;}
+	    to {top: -20%;}
+	}
+	@-webkit-keyframes anime_clip_one {
+	    from {top: 4%;}
+	    to {top: -20%;}
+	}
+	@keyframes anime_clip_two {
+	    from {top: 28%;}
+	    to {top: 4%;}
+	}
+	@-webkit-keyframes anime_clip_two {
+	    from {top: 28%;}
+	    to {top: 4%;}
+	}
+	@keyframes anime_clip_three {
+	    from {top: 52%;}
+	    to {top: 28%;}
+	}
+	@-webkit-keyframes anime_clip_three {
+	    from {top: 52%;}
+	    to {top: 28%;}
+	}
+	@keyframes anime_clip_foor {
+	    from {top: 76%;}
+	    to {top: 52%;}
+	}
+	@-webkit-keyframes anime_clip_foor {
+	    from {top: 76%;}
+	    to {top: 52%;}
+	}
+	@keyframes anime_clip_five {
+	    from {top: 100%;}
+	    to {top: 76%;}
+	}
+	@-webkit-keyframes anime_clip_five {
+	    from {top: 100%;}
+	    to {top: 76%;}
+	}
+	@keyframes anime_clip_six {
+	    from {top: 124%;}
+	    to {top: 100%;}
+	}
+	@-webkit-keyframes anime_clip_six {
+	    from {top: 124%;}
+	    to {top: 100%;}
+	}
+}
+
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 600px) {
+	.name_head {
+		height: 10%;
+	}
+	.name_head div {
+    	font-size: 25px;
+    	height: 100%;
+	}
+	.frame {
+    	width: 90%;
+    	height: auto;
+    	margin:0;
+    	margin-left: 5%;
+	}
+	
+	.my_logo {
+    	font-size: 10px;
+	}
+	p, span {
+    	font-size: 12px;
+	}
+	input[id='btn'] {
+		font-size: 12px;
+	}
+	.clip1 {
+    	top: 8%;
+	}
+	.clip2 {
+    	top: 40%;
+	}
+	.clip3 {
+    	top: 72%;
+	}
+	.clip4 {
+    	top: 104%;
+	}
+	.clip5 {
+    	top: 136%;
+	}
+	.clip6 {
+    	top: 168%;
+	}
+	.video_block {
+		margin: 0;
+		margin-top: 2%;
+	}
+	.lenta_win ,.lenta_win_ {
+    	border: 3px solid rgba(0,97,193,0.7);
+    	border-left-width: 8px;
+    	border-right-width: 8px;
+    }
+	@keyframes anime_clip_one {
+	    from {top: 8%;}
+	    to {top: -24%;}
+	}
+	@-webkit-keyframes anime_clip_one {
+	    from {top: 8%;}
+	    to {top: -24%;}
+	}
+	@keyframes anime_clip_two {
+	    from {top: 40%;}
+	    to {top: 8%;}
+	}
+	@-webkit-keyframes anime_clip_two {
+	    from {top: 40%;}
+	    to {top: 8%;}
+	}
+	@keyframes anime_clip_three {
+	    from {top: 72%;}
+	    to {top: 40%;}
+	}
+	@-webkit-keyframes anime_clip_three {
+	    from {top: 72%;}
+	    to {top: 40%;}
+	}
+	@keyframes anime_clip_foor {
+	    from {top: 104%;}
+	    to {top: 72%;}
+	}
+	@-webkit-keyframes anime_clip_foor {
+	    from {top: 104%;}
+	    to {top: 72%;}
+	}
+	@keyframes anime_clip_five {
+	    from {top: 136%;}
+	    to {top: 104%;}
+	}
+	@-webkit-keyframes anime_clip_five {
+	    from {top: 136%;}
+	    to {top: 104%;}
+	}
+	@keyframes anime_clip_six {
+	    from {top: 168%;}
+	    to {top: 136%;}
+	}
+	@-webkit-keyframes anime_clip_six {
+	    from {top: 168%;}
+	    to {top: 136%;}
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 510px) {
+	.frame {
+		background-image: url(../img/my_photo460.jpg);
+	}
+	.input_block {
+   		 margin: 100px auto;
+	}
+	.lenta_win,.lenta_win_ {
+		border: 2px solid rgba(0,97,193,0.7);
+		border-left-width: 9px;
+    	border-right-width: 9px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 450px) {
+	.clip1 {
+    	top: 8%;
+	}
+	.clip2 {
+    	top: 56%;
+	}
+	.clip3 {
+    	top: 104%;
+	}
+	.clip4 {
+    	top: 152%;
+	}
+	.clip5 {
+    	top: 200%;
+	}
+	.clip6 {
+    	top: 248%;
+	}
+	@keyframes anime_clip_one {
+	    from {top: 8%;}
+	    to {top: -40%;}
+	}
+	@-webkit-keyframes anime_clip_one {
+	    from {top: 8%;}
+	    to {top: -40%;}
+	}
+	@keyframes anime_clip_two {
+	    from {top: 56%;}
+	    to {top: 8%;}
+	}
+	@-webkit-keyframes anime_clip_two {
+	    from {top: 56%;}
+	    to {top: 8%;}
+	}
+	@keyframes anime_clip_three {
+	    from {top: 104%;}
+	    to {top: 56%;}
+	}
+	@-webkit-keyframes anime_clip_three {
+	    from {top: 104%;}
+	    to {top: 56%;}
+	}
+	@keyframes anime_clip_foor {
+	    from {top: 152%;}
+	    to {top: 104%;}
+	}
+	@-webkit-keyframes anime_clip_foor {
+	    from {top: 152%;}
+	    to {top: 104%;}
+	}
+	@keyframes anime_clip_five {
+	    from {top: 200%;}
+	    to {top: 152%;}
+	}
+	@-webkit-keyframes anime_clip_five {
+	    from {top: 200%;}
+	    to {top: 152%;}
+	}
+	@keyframes anime_clip_six {
+	    from {top: 248%;}
+	    to {top: 200%;}
+	}
+	@-webkit-keyframes anime_clip_six {
+	    from {top: 248%;}
+	    to {top: 200%;}
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 430px) {
+	.frame {
+		width: 70%;
+		margin: 0 auto;
+	}
+	.input_block {
+    	margin: 80px auto;
+    	width: 50%;
+	}
+	.name_head div {
+    	font-size: 15px;
+
+	}
+	.name_head {
+		height: 20px;
+	}
+	.lenta_win ,.lenta_win_ {
+   	 	border-left-width: 9px;
+    	border-right-width: 9px;
+	}
+	input[id='btn'] {
+		width: 70%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 400px) {
+	.input_block {
+    	margin: 65px auto;
+    
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 380px) {
+	
+	.lenta_win ,.lenta_win_ {
+		border: 1px solid rgba(0,97,193,0.7);
+		border-left-width: 9px;
+    	border-right-width: 9px;
+    }
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 350px) {
+	.input_block {
+		margin: 50px auto;
+	}
+}
+
+
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 300px) {
+	.frame {
+		width: 50%;
+		background-image: url(../img/my_photo300.jpg);
+	}
+	input[type='checkbox'] {
+    	margin-top: 10px;
+   		width: 20px;
+    	height: 20px;
+	}
+	p, span {
+   		font-size: 10px;
+	}
+	.input_block {
+		margin: 30px auto;
+		width: 50%;
+	}
+	.video_img {
+		height: 100%;
+	}
+	.clip1 {
+    	top: 3px;
+	}
+	.clip2 {
+    	top: 102%;
+	}
+	.clip3 {
+    	top: 174%;
+	}
+	.clip4 {
+    	top: 246%;
+	}
+	.clip5 {
+    	top: 318%;
+	}
+	.clip6 {
+    	top: 390%;
+	}
+	@keyframes anime_clip_one {
+	    from {top: 3px;}
+	    to {top: -42%;}
+	}
+	@-webkit-keyframes anime_clip_one {
+	    from {top: 3px;}
+	    to {top: -42%;}
+	}
+	@keyframes anime_clip_two {
+	    from {top: 102%;}
+	    to {top: 3px;}
+	}
+	@-webkit-keyframes anime_clip_two {
+	    from {top: 102%;}
+	    to {top: 3px;}
+	}
+	@keyframes anime_clip_three {
+	    from {top: 174%;}
+	    to {top: 102%;}
+	}
+	@-webkit-keyframes anime_clip_three {
+	    from {top: 174%;}
+	    to {top: 102%;}
+	}
+	@keyframes anime_clip_foor {
+	    from {top: 246%;}
+	    to {top: 174%;}
+	}
+	@-webkit-keyframes anime_clip_foor {
+	    from {top: 246%;}
+	    to {top: 174%;}
+	}
+	@keyframes anime_clip_five {
+	    from {top: 318%;}
+	    to {top: 246%;}
+	}
+	@-webkit-keyframes anime_clip_five {
+	    from {top: 318%;}
+	    to {top: 246%;}
+	}
+	@keyframes anime_clip_six {
+	    from {top: 390%;}
+	    to {top: 318%;}
+	}
+	@-webkit-keyframes anime_clip_six {
+	    from {top: 390%;}
+	    to {top: 318%;}
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 260px) {
+	.input_block {
+		margin: 30px auto;
+	
+	}
+	
+	input[type='checkbox'] {
+    	margin-top: 10px;
+   		width: 15px;
+    	height: 15px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 230px) {
+	.input_block {
+		margin: 20px auto;
+	
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 210px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 1000px) and (max-height: 190px) {
+	.name_head {
+		display: none;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) {
+	.input_block {
+   		margin: 100px auto;
+   		width: 50%;
+	}
+	.lenta_win, .lenta_win_ {
+    	border: 4px solid rgba(0,97,193,0.7);
+	}
+}
+
+
+
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 450px) {
+	.frame {
+		width: 70%;
+		margin: 0 auto;
+	}
+	.input_block {
+    	margin: 70px auto;
+    	width: 50%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 400px) {
+	
+	.frame {
+		background-image: url(../img/my_photo400.jpg);
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 350px) {
+	.frame {
+		width: 50%;
+	}
+	.input_block {
+    	margin: 50px auto;
+    	width: 70%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 330px) {
+	.frame {
+		background-image: url(../img/my_photo300.jpg);
+	}
+	.input_block {
+    	margin: 40px auto;
+    	
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 280px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	
+	
+	input[type='checkbox'] {
+    	margin-top: 10px;
+   		width: 15px;
+    	height: 15px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 225px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 210px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) {
+	.input_block {
+    	margin: 150px auto;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 550px){
+	.frame {
+		width: 70%;
+		margin: 0 auto;
+	}
+	.input_block {
+    	margin: 120px auto;
+    	width: 60%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 500px){
+	.input_block {
+    	margin: 100px auto;
+    
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 440px){
+	.input_block {
+    	margin: 70px auto;
+    
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 370px){
+	.input_block {
+    	margin: 50px auto;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 320px){
+	.frame {
+		width: 60%;
+	}
+	.input_block {
+    	margin: 30px auto;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 250px){
+	.input_block {
+		margin: 0 auto;
+		margin-top: 50px;
+	}
+	
+	
+	input[type='checkbox'] {
+    	margin-top: 10px;
+   		width: 15px;
+    	height: 15px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 225px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 800px) and (max-height: 210px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 750px) {
+	.input_block {
+	    margin: 70px auto;
+	   
+	}
+	.my_logo {
+    	font-size: 10px;
+	}
+	p, span {
+    	font-size: 12px;
+	}
+	input[id='btn'] {
+		width: 70%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 750px) and (max-height: 370px) {
+	.frame {
+		width: 60%;
+	}
+	.input_block {
+   		margin: 50px auto;
+   		width: 70%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 750px) and (max-height: 320px) {
+	.frame {
+		width: 50%;
+	}
+	.input_block {
+   		margin: 30px auto;
+   		width: 80%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 750px) and (max-height: 250px) {
+	.input_block {
+	    margin: 20px auto;
+	    width: 80%;
+	}
+	
+}
+@media only screen and (orientation: landscape) and (max-width: 750px) and (max-height: 225px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 750px) and (max-height: 210px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 650px) {
+	.input_block {
+		width: 70%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 650px) and (max-height: 400px) {
+	.input_block {
+   		margin: 50px auto;
+   		width: 80%;
+   	}
+	.frame {
+		background-image: url(../img/my_photo400.jpg);
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 650px) and (max-height: 330px) {
+	.frame {
+		width: 60%;
+		background-image: url(../img/my_photo300.jpg);
+	}
+	.input_block {
+   		margin: 40px auto;
+   	}
+}
+@media only screen and (orientation: landscape) and (max-width: 650px) and (max-height: 280px) {
+	.input_block {
+		margin: 20px auto;
+
+	}
+	
+	input[type='checkbox'] {
+    	margin-top: 10px;
+   		width: 15px;
+    	height: 15px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 650px) and (max-height: 225px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 650px) and (max-height: 210px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 600px) {
+	.input_block {
+	    margin: 60px auto;
+	   
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 600px) and (max-height: 500px) {
+	
+	input[type='checkbox'] {
+	    margin-top: 10px;
+	    width: 15px;
+	    height: 15px;
+	}
+	.input_block {
+	    margin: 50px auto;
+	   
+	}
+	.frame {
+		background-image: url(../img/my_photo400.jpg);
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 600px) and (max-height: 300px) {
+	.frame {
+		
+		background-image: url(../img/my_photo300.jpg);
+	}
+	.input_block {
+	    margin: 20px auto;
+	   
+	}
+}
+
+@media only screen and (orientation: landscape) and (max-width: 600px) and (max-height: 225px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 30px;
+	}
+	.frame {
+		background-image: url(../img/my_photo300.jpg);
+	}
+	p, span {
+    	font-size: 10px;
+	}
+	input[id='btn'] {
+    	margin-top: 10px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 600px) and (max-height: 210px) {
+	.input_block {
+		margin: 0 auto;
+		margin-top: 20px;
+	}
+
+}
+@media only screen and (orientation: landscape) and (max-width: 550px) {
+	.frame {
+		width: 85%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 450px) {
+	.input_block {
+		width: 80%;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 400px) and (max-height: 400px) {
+	.my_logo {
+    	font-size: 9px;
+	}
+	p, span {
+    	font-size: 10px;
+	}
+	.input_block {
+	    margin: 0px auto;
+	    margin-bottom: 5px;
+	    margin-top: 25px;
+	}
+	input[id='btn'] {
+    	margin-top: 10px;
+	}
+	.frame {
+		background-image: url(../img/my_photo300.jpg);
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 350px) and (max-height: 250px) {
+	.my_logo {
+    	font-size: 7px;
+	}
+	p, span {
+    	font-size: 8px;
+	}
+	input[id='btn'] {
+    	font-size: 8px;
+    	margin-top: 5px;
+    	height: 20px;
+	}
+	.input_block {
+	    margin: 0px auto;
+	    margin-bottom: 5px;
+	    margin-top: 20px;
+	}
+	.frame {
+		background-image: url(../img/my_photo300.jpg);
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 320px) and (max-height: 300px) {
+	.input_block {
+		width: 90%;
+	}
+	input[id='btn'] {
+    	font-size: 10px;
+	}
+}
+@media only screen and (orientation: landscape) and (max-width: 900px) and (max-height: 500px) {
+	.lenta_win {
+		display:none;
+	}
+	.lenta_win_ {
+		display: block;
+	}
+}

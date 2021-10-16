@@ -1,0 +1,35 @@
+{
+	"photo_equip":[
+				   ["photo_equip/back/IMG_20201028_085252.jpg","photo_equip/back/IMG_20201028_085252.jpg","photo_equip/back/pull_back_barbell.jpg"],
+				   ["photo_equip/back/IMG_20201028_085824.jpg","photo_equip/back/IMG_20201028_085824.jpg","photo_equip/back/pull_back_uzko.jpg"],
+				   ["photo_equip/back/IMG_20201026_173358.jpg","photo_equip/back/goriz_richag_tyga.jpg","photo_equip/back/tyaga-za-golovu1.jpg"],
+				   ["photo_equip/back/IMG_20201030_162539.jpg","photo_equip/back/pull_back_barbell.jpg"],
+				   ["photo_equip/back/IMG_20201026_173157.jpg","photo_equip/back/IMG_20201028_085813.jpg"],
+				   ["photo_equip/abdominal/press_turnik.jpg","photo_equip/abdominal/IMG_20201028_085135.jpg"]
+				  ],
+	"exercise_name":[
+					 ["Подтягивание в гравитроне широким хватом (противовес 130-140 фунтов)","Подтягивание в гравитроне параллельным хватом (противовес 130-140 фунтов)","Тяга штанги в наклоне к поясу"],
+					 ["Вертикальная рычажная тяга широким хватом (вес 80-90 фунтов)","Вертикальная рычажная тяга параллельным хватом (вес 80-90 фунтов)","Тяга вертикального блока за голову"],
+					 ["Гоизонтальная рычажная тяга широким хватом (вес по 25кг(55 фунтов на каждую сторону))","Гоизонтальная рычажная тяга средним хватом (вес по 25кг(55 фунтов на каждую сторону))"],
+					 ["Тяга Т-грифа (вес 20кг(45 фунтов))","Тяга штанги средним хватом в наклоне (вес по 10-15кг (22-35фунтов) на каждую сторону)"],
+					 ["Гиперэкстензия с отягощением","Обратная гиперэкстензия в тренажере"],
+					 ["Подьемы ног в висе","Скручивания в тренажере для пресса"]
+				  	],
+	"src_video":[
+				 ["https://www.youtube.com/embed/gkrrGaeukY4","https://www.youtube.com/embed/BOUrymgJk4s","https://www.youtube.com/embed/wj2Ww8NWilQ"],
+				 ["https://www.youtube.com/embed/ZLr25N9buQ8","https://www.youtube.com/embed/JxstfbStOMA","https://www.youtube.com/embed/8BwrIn4HCgk"],
+				 ["https://www.youtube.com/embed/Bx8QSth84lI","https://www.youtube.com/embed/ipldDlIVcm4"],
+				 ["https://www.youtube.com/embed/3Yjr0ulB_YI","https://www.youtube.com/embed/mdSuEs6YQ48"],
+				 ["https://www.youtube.com/embed/ykGsGlXkEVg","https://www.youtube.com/embed/zTKVfUW0EIo"],
+				 ["https://www.youtube.com/embed/MLRvcj4dYeQ","https://www.youtube.com/embed/4wNi4keR_JE"]
+				],
+	"superset":[false,false,false,false,false,false,false],
+	"circle":[false,false,false,false,false,false,false,false],
+	"details":[[{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":15},{"rounds":4,"reps":15}],
+			   [{"rounds":4,"reps":20},{"rounds":4,"reps":20}]
+		 	  ]
+}
